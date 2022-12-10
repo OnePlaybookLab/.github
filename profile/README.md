@@ -1,1 +1,1 @@
-Oneplaybook lab is building an open source knowledge base system that organizes all your personal and collaborative knowledge work into an offline-ready library of interlinked wiki-based notebooks.
+Oneplaybook lab is building an open source toolkit designed to quickly capture, curate, surface and share knowledge to support all kinds of workflows.
